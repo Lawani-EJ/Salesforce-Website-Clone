@@ -21,6 +21,5 @@ The primary objective is to replicate the structure and design of the Salesforce
 To view the recreated Salesforce website:
 
 1. Clone the repository:
-
-   ```bash
 <https://github.com/Lawani-EJ/REWORK-Frontend-Project1.git>
+   ```bash
