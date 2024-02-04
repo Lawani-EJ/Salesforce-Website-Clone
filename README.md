@@ -5,7 +5,7 @@ This project is an attempt to recreate the official Salesforce website, adding a
 
 ## Assigned Task
 
-The primary objective is to replicate the structure and design of the Salesforce website while infusing a playful element with the use of emojis. The recreation will include various sections such as headers, footers, navigation bars, and content areas, all inspired by the official Salesforce website.
+The primary objective is to replicate the structure and design of the Salesforce website The recreation will include various sections such as headers, footers, navigation bars, and content areas, all inspired by the official Salesforce website.
 
 ### Sections to be Recreated
 1. Header Section
