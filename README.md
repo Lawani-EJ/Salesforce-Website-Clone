@@ -1,7 +1,7 @@
 # Salesforce Website Recreation
 
 ## Project Overview
-This project is an attempt to recreate the official Salesforce website, adding a touch of creativity and fun by incorporating emojis throughout the design.
+This project is an attempt to recreate the official Salesforce website, adding a touch of creativity and fun throughout the design.
 
 ## Assigned Task
 
