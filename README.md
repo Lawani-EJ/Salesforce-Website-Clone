@@ -32,7 +32,7 @@ Behold the magic in the making:
 
 ## Ready to Embark on This Exciting Journey?
 
-Alrighty, time to roll up my sleeves and dive into this adventure headfirst! To kick things off and witness the magic firsthand:
+Alrighty, time to roll up my sleeves and dive into this adventure headfirst! To kick things off and witness the magic first-hand:
 
 1. 🚀 Let's clone the repository from [here](https://github.com/Lawani-EJ/REWORK-Frontend-Project1.git)
 
