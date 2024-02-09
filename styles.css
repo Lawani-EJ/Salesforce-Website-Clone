@@ -793,53 +793,108 @@ iframe {
     border-radius: 8px;
 }
 
-.site-footer {
-    background-color: #f8f8f8;
-    padding: 30px 0;
-    text-align: center;
+.footerlinks p {
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #434043;
+    padding-bottom: 35px;
+    font-weight: 600;
 }
 
-.footer-container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 1200px;
-    margin: 0 auto;
+.logolinks li {
+    list-style-type: none;
 }
 
-.footer-container .left-content img {
-    width: 10px;
-}
-
-.footer-container .center-content {
-    flex: 1;
-    text-align: center;
-}
-
-.footer-container .social-icons a {
-    margin-right: 10px;
-}
-
-.footer-container p {
-    margin-bottom: 10px;
-}
-
-.footer-container .right-content {
-    flex: 1;
-    text-align: right;
-}
-
-.footer-links {
-    list-style: none;
-    padding: 0;
-}
-
-.footer-links li {
-    display: inline-block;
-    margin-right: 20px;
-}
-
-.footer-links a {
+.logolinks li a {
     text-decoration: none;
-    color: #3498db;
+    color: #33769d;
+    font-size: 14px;
+    line-height: 2.3;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footerpart2 {
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 100px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #032e61;
+    display: flex;
+}
+
+.globe {
+    display: flex;
+    margin: 5px;
+}
+
+.globe img {
+    height: 30%;
+    width: 40%;
+}
+
+.globe span {
+    font-size: 20px;
+    color: #fff;
+    padding-top: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footerpart2_links ul {
+    display: flex;
+    text-wrap: wrap;
+    line-height: 2;
+    padding-left: 40px;
+}
+
+.footerpart2_links li {
+    list-style-type: none;
+    margin: 15px;
+}
+
+.footerpart2_links li a {
+    color: #fff;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footerpart2_links li a:hover {
+    color: #0176d3;
+}
+
+.privacy {
+    margin-top: -20px;
+}
+
+.privacy img {
+    margin-top: 10px;
+    margin-left: 15px;
+    height: 30px;
+    width: 35px;
+}
+
+.disclaimer {
+    font-size: 15px;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 40px;
+    line-height: 1.5;
+}
+
+.disclaimer span {
+    text-decoration: underline;
+}
+
+.disclaimer span:hover {
+    text-decoration: underline;
+    color: #0176d3;
+}
+
+.img {
+    width: 20%;
+    height: 25%;
+    position: sticky;
+    /* position: fixed; */
 }
