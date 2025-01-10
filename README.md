@@ -20,10 +20,10 @@ Alright, buckle up! My mission, if I choose to accept it (spoiler: I definitely 
 ## Sneak Peek at My Adventure
 
 Behold the magic in the making:  
-![Screenshot 1](<screenshots/Screenshot 2024-02-04 145854.png>)  
-![Screenshot 2](<screenshots/Screenshot 2024-02-04 145942.png>)  
-![Screenshot 3](<screenshots/Screenshot 2024-02-04 150028.png>)  
-![Screenshot 4](<screenshots/Screenshot 2024-02-04 150138.png>)  
+![image](https://github.com/user-attachments/assets/09df723b-18db-41b3-8df3-6ef1d1c0c256) 
+![image](https://github.com/user-attachments/assets/8e1a00a3-3edf-4005-9634-563df48b228c)  
+![image](https://github.com/user-attachments/assets/4b455090-3f20-4925-acdd-6f8667e2735d)
+![image](https://github.com/user-attachments/assets/ce9131ff-0dbb-4368-8511-4a454b06e791)
 
 ## My Tools of the Trade
 
